@@ -1,0 +1,21 @@
+# Build outputs
+/build/
+/dist/
+
+# NetBeans local/private settings
+/nbproject/private/
+
+# Java compiled artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE and OS files
+.agents/
+.codex/
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
